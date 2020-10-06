@@ -18,3 +18,5 @@ provider "aws" {
     profile = "terraform"
 }
 ```
+
+- Create initial aws.tf and `terraform init`
